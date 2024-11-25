@@ -14,6 +14,9 @@
 
   --font-titles: "Rubik", serif;
   --font-body: system-ui, sans-serif; /* system-ui matches the user's system font */
+
+  --ttt-square-hover: #e3e8f0;
+  --ttt-winner: #e06476;
 }
 
 body {
