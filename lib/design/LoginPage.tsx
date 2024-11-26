@@ -18,7 +18,7 @@ const LoginPage = () => {
           <Image 
             src="/images/LoginIllustration.svg"
             alt="Login Illustration"
-            width={87.97}
+            width={88}
             height={434}
             className={styles.illustration}
           />

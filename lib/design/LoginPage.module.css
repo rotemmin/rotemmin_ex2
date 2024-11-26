@@ -54,7 +54,7 @@
 }
 
 .mainContent {
-  padding-top: 160px;
+  padding-top: 120px;
   padding-right: 30px;
   padding-left: 30px;
   width: 100%;
@@ -76,7 +76,7 @@
 .illustration {
   position: absolute;
   right: 2px;
-  top: 280px;
+  top: 240px;
 }
 
 .formSubtitle {
