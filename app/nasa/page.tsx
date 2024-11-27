@@ -3,7 +3,7 @@ import { ApodItem } from "./utils";
 import { getData } from "./utils";
 
 export default async function NasaPage() {
-  const data: ApodItem[] = await getData(10); 
+  const data: ApodItem[] = await getData(8); 
 
   return (
     <main className={styles.main}>
