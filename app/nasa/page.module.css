@@ -1,6 +1,7 @@
 .main {
   padding: 2rem;
   text-align: center;
+  background: linear-gradient(180deg, #A43D4E 10%, #FFFEE4 100%);
 }
 
 .grid {
